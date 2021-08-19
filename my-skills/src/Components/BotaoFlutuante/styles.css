@@ -1,0 +1,9 @@
+.botaoFlutuante {
+    width: 60px;
+    height: 60px;
+    border-radius: 40px;
+    position: fixed;
+    bottom: 5%;
+    right: 25%;
+    color: #0077b6
+}
